@@ -1,1 +1,5 @@
-Min-max heap implementation in C++. Data Structures in 1st year of university.
+# Min-max heap implementation
+
+First complex data structer that I've implemented.
+
+-1st year of uni

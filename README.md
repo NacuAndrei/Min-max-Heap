@@ -1,1 +1,1 @@
-# Tema-SD-complexa Min-Max Heap
+Min-max heap implementation in C++. Data Structures in 1st year of university.
